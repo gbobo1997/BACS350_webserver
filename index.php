@@ -22,6 +22,8 @@
             <li><a href="./project/09/index.php">Project #9 testing</a></li>
             <li><a href="./project/10/index.php">Project #10 Files</a></li>
             <li><a href="./subscribers/index.php">Subscribers folder</a></li>
+            <li><a href="./project/11/index.php">Project #11 Log db</a></li>
+            <li><a href="./project/13/index.php">Project #13 Project/Book db</a></li>
 
         </ul>
     </body>
