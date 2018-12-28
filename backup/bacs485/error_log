@@ -1,0 +1,45 @@
+[26-Nov-2018 01:40:02 UTC] PHP Warning:  require_once(login_logic.php): failed to open stream: No such file or directory in /home2/pvwwprmy/public_html/bacs485/view.php on line 6
+[26-Nov-2018 01:40:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'login_logic.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/pvwwprmy/public_html/bacs485/view.php on line 6
+[26-Nov-2018 01:40:08 UTC] PHP Warning:  require_once(login_logic.php): failed to open stream: No such file or directory in /home2/pvwwprmy/public_html/bacs485/view.php on line 6
+[26-Nov-2018 01:40:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'login_logic.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/pvwwprmy/public_html/bacs485/view.php on line 6
+[26-Nov-2018 01:40:15 UTC] PHP Warning:  require_once(login_logic.php): failed to open stream: No such file or directory in /home2/pvwwprmy/public_html/bacs485/view.php on line 6
+[26-Nov-2018 01:40:15 UTC] PHP Fatal error:  require_once(): Failed opening required 'login_logic.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/pvwwprmy/public_html/bacs485/view.php on line 6
+[26-Nov-2018 02:20:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 42
+[26-Nov-2018 02:23:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 41
+[26-Nov-2018 02:23:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 41
+[26-Nov-2018 02:23:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 41
+[26-Nov-2018 02:24:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 43
+[26-Nov-2018 02:25:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 43
+[26-Nov-2018 02:26:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 44
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 47
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 48
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'grade_year' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 49
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'studentID' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 50
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 47
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 48
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'grade_year' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 49
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'studentID' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 50
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 47
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 48
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'grade_year' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 49
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'studentID' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 50
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 47
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 48
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'grade_year' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 49
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'studentID' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 50
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 47
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 48
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'grade_year' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 49
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'studentID' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 50
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 47
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 48
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'grade_year' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 49
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'studentID' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 50
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 47
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 48
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'grade_year' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 49
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'studentID' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 50
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'firstName' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 47
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'lastName' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 48
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'grade_year' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 49
+[26-Nov-2018 02:29:42 UTC] PHP Warning:  Illegal string offset 'studentID' in /home2/pvwwprmy/public_html/bacs485/lookup.php on line 50

@@ -1,0 +1,72 @@
+[18-Oct-2018 17:58:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connect_database() in /home2/pvwwprmy/public_html/project/23/log.php:161
+Stack trace:
+#0 /home2/pvwwprmy/public_html/project/23/log.php(205): Log->__construct()
+#1 /home2/pvwwprmy/public_html/project/23/index.php(13): require_once('/home2/pvwwprmy...')
+#2 {main}
+  thrown in /home2/pvwwprmy/public_html/project/23/log.php on line 161
+[18-Oct-2018 17:58:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connect_database() in /home2/pvwwprmy/public_html/project/23/log.php:161
+Stack trace:
+#0 /home2/pvwwprmy/public_html/project/23/log.php(205): Log->__construct()
+#1 /home2/pvwwprmy/public_html/project/23/pagelog.php(17): require_once('/home2/pvwwprmy...')
+#2 {main}
+  thrown in /home2/pvwwprmy/public_html/project/23/log.php on line 161
+[18-Oct-2018 17:58:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connect_database() in /home2/pvwwprmy/public_html/project/23/log.php:161
+Stack trace:
+#0 /home2/pvwwprmy/public_html/project/23/log.php(205): Log->__construct()
+#1 /home2/pvwwprmy/public_html/project/23/pagelog.php(17): require_once('/home2/pvwwprmy...')
+#2 {main}
+  thrown in /home2/pvwwprmy/public_html/project/23/log.php on line 161
+[18-Oct-2018 17:58:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connect_database() in /home2/pvwwprmy/public_html/project/23/log.php:161
+Stack trace:
+#0 /home2/pvwwprmy/public_html/project/23/log.php(205): Log->__construct()
+#1 /home2/pvwwprmy/public_html/project/23/index.php(13): require_once('/home2/pvwwprmy...')
+#2 {main}
+  thrown in /home2/pvwwprmy/public_html/project/23/log.php on line 161
+[18-Oct-2018 17:58:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connect_database() in /home2/pvwwprmy/public_html/project/23/log.php:161
+Stack trace:
+#0 /home2/pvwwprmy/public_html/project/23/log.php(205): Log->__construct()
+#1 /home2/pvwwprmy/public_html/project/23/pagelog.php(17): require_once('/home2/pvwwprmy...')
+#2 {main}
+  thrown in /home2/pvwwprmy/public_html/project/23/log.php on line 161
+[18-Oct-2018 17:59:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connect_database() in /home2/pvwwprmy/public_html/project/23/log.php:161
+Stack trace:
+#0 /home2/pvwwprmy/public_html/project/23/log.php(205): Log->__construct()
+#1 /home2/pvwwprmy/public_html/project/23/index.php(13): require_once('/home2/pvwwprmy...')
+#2 {main}
+  thrown in /home2/pvwwprmy/public_html/project/23/log.php on line 161
+[18-Oct-2018 17:59:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connect_database() in /home2/pvwwprmy/public_html/project/23/log.php:161
+Stack trace:
+#0 /home2/pvwwprmy/public_html/project/23/log.php(205): Log->__construct()
+#1 /home2/pvwwprmy/public_html/project/23/index.php(13): require_once('/home2/pvwwprmy...')
+#2 {main}
+  thrown in /home2/pvwwprmy/public_html/project/23/log.php on line 161
+[18-Oct-2018 18:03:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connect_database() in /home2/pvwwprmy/public_html/project/23/log.php:161
+Stack trace:
+#0 /home2/pvwwprmy/public_html/project/23/log.php(205): Log->__construct()
+#1 /home2/pvwwprmy/public_html/project/23/pagelog.php(17): require_once('/home2/pvwwprmy...')
+#2 {main}
+  thrown in /home2/pvwwprmy/public_html/project/23/log.php on line 161
+[18-Oct-2018 18:03:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connect_database() in /home2/pvwwprmy/public_html/project/23/log.php:161
+Stack trace:
+#0 /home2/pvwwprmy/public_html/project/23/log.php(205): Log->__construct()
+#1 /home2/pvwwprmy/public_html/project/23/index.php(13): require_once('/home2/pvwwprmy...')
+#2 {main}
+  thrown in /home2/pvwwprmy/public_html/project/23/log.php on line 161
+[18-Oct-2018 18:03:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connect_database() in /home2/pvwwprmy/public_html/project/23/log.php:161
+Stack trace:
+#0 /home2/pvwwprmy/public_html/project/23/log.php(205): Log->__construct()
+#1 /home2/pvwwprmy/public_html/project/23/pagelog.php(17): require_once('/home2/pvwwprmy...')
+#2 {main}
+  thrown in /home2/pvwwprmy/public_html/project/23/log.php on line 161
+[18-Oct-2018 18:04:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connect_database() in /home2/pvwwprmy/public_html/project/23/log.php:161
+Stack trace:
+#0 /home2/pvwwprmy/public_html/project/23/log.php(205): Log->__construct()
+#1 /home2/pvwwprmy/public_html/project/23/index.php(13): require_once('/home2/pvwwprmy...')
+#2 {main}
+  thrown in /home2/pvwwprmy/public_html/project/23/log.php on line 161
+[18-Oct-2018 18:04:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connect_database() in /home2/pvwwprmy/public_html/project/23/log.php:161
+Stack trace:
+#0 /home2/pvwwprmy/public_html/project/23/log.php(205): Log->__construct()
+#1 /home2/pvwwprmy/public_html/project/23/pagelog.php(17): require_once('/home2/pvwwprmy...')
+#2 {main}
+  thrown in /home2/pvwwprmy/public_html/project/23/log.php on line 161

@@ -1,0 +1,64 @@
+## BACS485 - Final Project
+### Course Registration System
+* Robert Carver, Courtney Casperson
+* Garrett Hasch, Marleigh Cattaruzza
+
+
+---
+
+### The Problem
+* Create a university database that should be able to:
+	* track what courses students are enrolled in
+	* track what courses instructors teach
+	* track what tutorial and lab sessions are associated with each course
+	* track the antirequisites and prerequisites of each course
+
+
+---
+
+
+### Logical ERD
+![](http://pvw.wpr.mybluehost.me/bacs485/Logical.png)
+
+
+---
+
+
+### Relational ERD 
+![](http://pvw.wpr.mybluehost.me/bacs485/Oracle_ERD.png)
+
+
+---
+### Data Dictionary Excerpt
+![](http://pvw.wpr.mybluehost.me/bacs485/DataDictionary.png)
+
+---
+
+### Query #2
+
+![](http://pvw.wpr.mybluehost.me/bacs485/Query2.png)
+
+
+---
+
+### Query #5
+
+![](http://pvw.wpr.mybluehost.me/bacs485/Query5.png)
+
+---
+### Limitations
+* no waitlisting
+* no class capacity
+* email naming system will fail
+
+---
+### SQL Examples
+![](http://pvw.wpr.mybluehost.me/bacs485/SQLCourses.png)
+
+---
+### SQL Examples ctd.
+![](http://pvw.wpr.mybluehost.me/bacs485/SQLLabSessions.png)
+---
+### Front End
+<a href="http://pvw.wpr.mybluehost.me/bacs485/">Web App </a>
+

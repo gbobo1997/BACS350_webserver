@@ -1,0 +1,4 @@
+[17-Oct-2018 19:07:21 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Note has a deprecated constructor in /home2/pvwwprmy/public_html/project/22/insert.php on line 2
+[17-Oct-2018 19:07:21 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/pvwwprmy/public_html/project/22/db.php on line 82
+[17-Oct-2018 19:07:47 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Note has a deprecated constructor in /home2/pvwwprmy/public_html/project/22/insert.php on line 2
+[17-Oct-2018 19:07:47 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/pvwwprmy/public_html/project/22/db.php on line 82

@@ -1,0 +1,9 @@
+[06-Sep-2018 01:32:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/pvwwprmy/public_html/bacs_350/web-root/project/06/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home2/pvwwprmy/public_html/bacs_350/web-root/project/06/index.php on line 30
+[06-Sep-2018 01:35:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/pvwwprmy/public_html/bacs_350/web-root/project/06/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home2/pvwwprmy/public_html/bacs_350/web-root/project/06/index.php on line 30
+[06-Sep-2018 01:35:50 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home2/pvwwprmy/public_html/bacs_350/web-root/project/06/index.php on line 48

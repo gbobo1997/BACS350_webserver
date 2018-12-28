@@ -1,0 +1,8 @@
+[27-Oct-2018 21:32:59 UTC] PHP Parse error:  syntax error, unexpected '$s' (T_VARIABLE), expecting ',' or ';' in /home2/pvwwprmy/public_html/exam2/redo2/album_views.php on line 40
+[27-Oct-2018 21:33:02 UTC] PHP Parse error:  syntax error, unexpected '$s' (T_VARIABLE), expecting ',' or ';' in /home2/pvwwprmy/public_html/exam2/redo2/album_views.php on line 40
+[27-Oct-2018 21:36:21 UTC] PHP Parse error:  syntax error, unexpected '"'>Artwork</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home2/pvwwprmy/public_html/exam2/redo2/album_views.php on line 40
+[27-Oct-2018 21:36:22 UTC] PHP Parse error:  syntax error, unexpected '"'>Artwork</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home2/pvwwprmy/public_html/exam2/redo2/album_views.php on line 40
+[27-Oct-2018 21:36:22 UTC] PHP Parse error:  syntax error, unexpected '"'>Artwork</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home2/pvwwprmy/public_html/exam2/redo2/album_views.php on line 40
+[27-Oct-2018 21:36:26 UTC] PHP Parse error:  syntax error, unexpected '"'>Artwork</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home2/pvwwprmy/public_html/exam2/redo2/album_views.php on line 40
+[27-Oct-2018 21:36:31 UTC] PHP Parse error:  syntax error, unexpected '"'>Artwork</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home2/pvwwprmy/public_html/exam2/redo2/album_views.php on line 40
+[27-Oct-2018 21:36:40 UTC] PHP Parse error:  syntax error, unexpected '"'>Artwork</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home2/pvwwprmy/public_html/exam2/redo2/album_views.php on line 40

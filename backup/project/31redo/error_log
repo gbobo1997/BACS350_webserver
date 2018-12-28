@@ -1,0 +1,4 @@
+[06-Nov-2018 19:52:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/pvwwprmy/public_html/project/31redo/views.php:29) in /home2/pvwwprmy/public_html/project/31redo/album.php on line 71
+[06-Nov-2018 19:53:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/pvwwprmy/public_html/project/31redo/views.php:29) in /home2/pvwwprmy/public_html/project/31redo/album.php on line 71
+[06-Nov-2018 19:53:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/pvwwprmy/public_html/project/31redo/views.php:29) in /home2/pvwwprmy/public_html/project/31redo/album.php on line 223
+[06-Nov-2018 19:56:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/pvwwprmy/public_html/project/31redo/views.php:29) in /home2/pvwwprmy/public_html/project/31redo/album.php on line 223
